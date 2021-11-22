@@ -1,0 +1,6 @@
+﻿  Device.cpp
+  main.cpp
+D:\5TERM\IIPY\Lab5\Lab5\main.cpp(18,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\5TERM\IIPY\Lab5\Lab5\main.cpp(174,17): warning C4018: <=: несоответствие типов со знаком и без знака
+  Создание кода...
+  Lab5.vcxproj -> D:\5TERM\IIPY\Lab5\Debug\Lab5.exe
